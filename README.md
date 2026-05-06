@@ -29,6 +29,8 @@ This project compares several regression models includes:
 ### Best Result
     Lasso Regression Model with RMSE: 5.5407
 
+![imagealt](https://github.com/wuttipansat/reg-energy-consumption/blob/116ef3bef1a1b123a731e8843e6bea545443083e/outputs/snapshot1.png.git)
+
 ## Getting Started
 
 Install the required dependencies:
